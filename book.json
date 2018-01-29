@@ -1,5 +1,6 @@
 {
-    "disqus": {
-      "shortName": "java-cloud-dubbo"
-    }
+  "plugins": [
+    "expandable-chapters-small",
+    "popup"
+  ]
 }
