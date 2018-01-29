@@ -97,3 +97,8 @@
         * [Spring Boot 配置文件](chapter5/SpringBoot基本配置/SpringBoot配置文件.md)
         * [Starter POM](chapter5/SpringBoot基本配置/StarterPOM.md)
         * [Spring Boot 日志配置](chapter5/SpringBoot基本配置/SpringBoot日志配置.md)
+* [第六章 Thymeleaf 模板引擎](chapter6.md)
+    * [Thymeleaf 简介](chapter6/Thymeleaf简介.md)
+    * [Spring Boot 与 Thymeleaf](chapter6/SpringBoot与Thymeleaf.md)
+    * [第一个 Thymeleaf 模板页](chapter6/第一个Thymeleaf模板页.md)
+    * [Thymeleaf 常用语法](chapter6/Thymeleaf常用语法.md)
